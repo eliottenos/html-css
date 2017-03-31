@@ -1,0 +1,15 @@
+h1 {
+  color: #954535;
+  font-family: Georgia;
+  font-style: "italic";
+
+}
+
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.ingredient {
+  color: purple;
+}
